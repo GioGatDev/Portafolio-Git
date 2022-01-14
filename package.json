@@ -18,7 +18,7 @@
   "dependencies": {
     "elliptic": "^6.5.4",
     "lodash": "^4.17.20",
-    "node-forge": "^0.10.0",
+    "node-forge": "^1.0.0",
     "tree-kill": "^1.2.2"
   },
   "repository": {
