@@ -60,5 +60,8 @@ typings/
 # next.js build output
 .next
 src/app/config.json
-.dist
+
+
+.js
 /dist
+bundle.js
